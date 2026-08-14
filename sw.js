@@ -1,4 +1,4 @@
-const CACHE_NAME = 'galva-control-v2';
+const CACHE_NAME = 'galva-control-v3';
 const SHELL_FILES = [
   './index.html',
   './i18n.js',
